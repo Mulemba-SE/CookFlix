@@ -1,0 +1,13 @@
+{
+  "name": "mulemba-se/cookflix",
+  "description": "CookFlix PHP backend project",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evans Mulemba",
+      "email": "mulembavans37@gmail.com"
+    }
+  ],
+  "require": {}
+}
